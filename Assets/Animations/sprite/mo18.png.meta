@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: eb950839387f8364a98bb7a2591a8879
+timeCreated: 1479364649
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mo18_0
+    21300002: mo18_1
+    21300004: mo18_2
+    21300006: mo18_3
+    21300008: mo18_4
+    21300010: mo18_5
+    21300012: mo18_6
+    21300014: mo18_7
+    21300016: mo18_8
+    21300018: mo18_9
+    21300020: mo18_10
+    21300022: mo18_11
+    21300024: mo18_12
+    21300026: mo18_13
+    21300028: mo18_14
+    21300030: mo18_15
+    21300032: mo18_16
+    21300034: mo18_17
+    21300036: mo18_18
+    21300038: mo18_19
+    21300040: mo18_20
+    21300042: mo18_21
+    21300044: mo18_22
+    21300046: mo18_23
+    21300048: mo18_24
+    21300050: mo18_25
+    21300052: mo18_26
+    21300054: mo18_27
+    21300056: mo18_28
+    21300058: mo18_29
+    21300060: mo18_30
+    21300062: mo18_31
+    21300064: mo18_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mo18_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 293
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 293
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 293
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 293
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 293
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 257
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 256
+        width: 41
+        height: 34
+      alignment: 9
+      pivot: {x: 0.55908686, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 256
+        width: 50
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6009402, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 256
+        width: 61
+        height: 34
+      alignment: 9
+      pivot: {x: 0.67871445, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 256
+        width: 62
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6856005, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 256
+        width: 62
+        height: 34
+      alignment: 9
+      pivot: {x: 0.69211257, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 256
+        width: 62
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6725759, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 58
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6531509, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_25
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 256
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.53364563, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 220
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 183
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 182
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 182
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo18_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 182
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: fc10176fdc6cfea4a934373436236d9b
+timeCreated: 1485434522
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: elebox_0
+    21300002: elebox_1
+    21300004: elebox_2
+    21300006: elebox_3
+    21300008: elebox_4
+    21300010: elebox_5
+    21300012: elebox_6
+    21300014: elebox_7
+    21300016: elebox_8
+    21300018: elebox_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: elebox_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 13.5}
+        - {x: 65, y: 28.5}
+        - {x: 29, y: 52.5}
+        - {x: -33, y: 52.5}
+        - {x: -54, y: 48.5}
+        - {x: -72, y: 44.5}
+        - {x: -72, y: -37.5}
+        - {x: -70, y: -52.5}
+        - {x: 68, y: -52.5}
+        - {x: 72, y: -44.5}
+        - {x: 72, y: 16.5}
+        - {x: 63, y: 15.5}
+    - name: elebox_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 407
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 52.5}
+        - {x: -30, y: 52.5}
+        - {x: -72, y: 46.5}
+        - {x: -72, y: -17.5}
+        - {x: -64, y: -52.5}
+        - {x: 68, y: -52.5}
+        - {x: 72, y: -13.5}
+        - {x: 72, y: 2.5}
+        - {x: 65, y: 29.5}
+    - name: elebox_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 52.5}
+        - {x: -72, y: 45.5}
+        - {x: -72, y: -25.5}
+        - {x: -68, y: -52.5}
+        - {x: 69, y: -52.5}
+        - {x: 72, y: -41.5}
+        - {x: 72, y: 36.5}
+        - {x: 42, y: 52.5}
+    - name: elebox_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 292
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 52.5}
+        - {x: -72, y: -37.5}
+        - {x: -70, y: -52.5}
+        - {x: 72, y: -52.5}
+        - {x: 72, y: 52.5}
+    - name: elebox_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 292
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 50}
+        - {x: -59, y: 50}
+        - {x: -72, y: 47}
+        - {x: -72, y: -36}
+        - {x: -70, y: -50}
+        - {x: 72, y: -50}
+        - {x: 72, y: 26}
+        - {x: 55, y: 40}
+    - name: elebox_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 52.5}
+        - {x: -30, y: 52.5}
+        - {x: -72, y: 46.5}
+        - {x: -72, y: -17.5}
+        - {x: -64, y: -52.5}
+        - {x: 68, y: -52.5}
+        - {x: 72, y: -13.5}
+        - {x: 72, y: 2.5}
+        - {x: 65, y: 29.5}
+    - name: elebox_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 179
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 52.5}
+        - {x: -72, y: 45.5}
+        - {x: -72, y: -25.5}
+        - {x: -68, y: -52.5}
+        - {x: 69, y: -52.5}
+        - {x: 72, y: -41.5}
+        - {x: 72, y: 36.5}
+        - {x: 42, y: 52.5}
+    - name: elebox_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 179
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 3.5}
+        - {x: 68, y: 15.5}
+        - {x: 72, y: 20.5}
+        - {x: 72, y: 37.5}
+        - {x: 50, y: 53.5}
+        - {x: -48, y: 53.5}
+        - {x: -70, y: 44.5}
+        - {x: -72, y: 36.5}
+        - {x: -72, y: -32.5}
+        - {x: -64, y: -53.5}
+        - {x: 68, y: -53.5}
+        - {x: 72, y: -14.5}
+        - {x: 72, y: -0.5}
+        - {x: 64, y: -0.5}
+    - name: elebox_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 3.5}
+        - {x: 68, y: 15.5}
+        - {x: 72, y: 20.5}
+        - {x: 72, y: 37.5}
+        - {x: 50, y: 53.5}
+        - {x: -48, y: 53.5}
+        - {x: -70, y: 44.5}
+        - {x: -72, y: 36.5}
+        - {x: -72, y: -32.5}
+        - {x: -64, y: -53.5}
+        - {x: 68, y: -53.5}
+        - {x: 72, y: -14.5}
+        - {x: 72, y: -0.5}
+        - {x: 64, y: -0.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

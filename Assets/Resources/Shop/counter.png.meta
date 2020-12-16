@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 6b0f77099c6ca144fbd00b9109cf232a
+timeCreated: 1483611709
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Counter_0
+    21300002: Counter_1
+    21300004: Counter_2
+    21300006: Counter_3
+    21300008: Counter_4
+    21300010: Counter_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Counter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 210
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 29}
+        - {x: 45, y: 27}
+        - {x: -96, y: -9}
+        - {x: -105, y: -16}
+        - {x: -105, y: -75}
+        - {x: 101, y: -75}
+        - {x: 105, y: -44}
+        - {x: 105, y: 28}
+        - {x: 104, y: 29}
+    - name: Counter_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 874
+        width: 210
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 27}
+        - {x: 46, y: -8}
+        - {x: 49, y: -11}
+        - {x: 52, y: -12}
+        - {x: 39, y: -12}
+        - {x: 36, y: -14}
+        - {x: 35, y: -17}
+        - {x: 35, y: -15}
+        - {x: 37, y: -13}
+        - {x: 37, y: -7}
+        - {x: 31, y: -1}
+        - {x: -87, y: 13}
+        - {x: -105, y: 9}
+        - {x: -105, y: -49}
+        - {x: -103, y: -75}
+        - {x: 102, y: -75}
+        - {x: 105, y: -45}
+        - {x: 105, y: 29}
+        - {x: 48, y: 29}
+      - - {x: -74, y: 39}
+        - {x: -76, y: 37}
+        - {x: -76, y: -7}
+        - {x: -71, y: -9}
+        - {x: -44, y: -9}
+        - {x: -43, y: -8}
+        - {x: -43, y: 39}
+    - name: Counter_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 874
+        width: 209
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 23}
+        - {x: 7.5, y: 4}
+        - {x: -41.5, y: 8}
+        - {x: -43.5, y: 3}
+        - {x: -57.5, y: 5}
+        - {x: -27.5, y: 13}
+        - {x: -32.5, y: 36}
+        - {x: -51.5, y: 48}
+        - {x: -103.5, y: 48}
+        - {x: -104.5, y: 46}
+        - {x: -104.5, y: -75}
+        - {x: 104.5, y: -75}
+        - {x: 104.5, y: 1}
+        - {x: 96.5, y: 20}
+    - name: Counter_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 874
+        width: 210
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 24}
+        - {x: 54, y: 12}
+        - {x: 51, y: 10}
+        - {x: 53, y: 13}
+        - {x: 54, y: 15}
+        - {x: 49, y: 20}
+        - {x: 31, y: 12}
+        - {x: 30, y: 7}
+        - {x: 22, y: -2}
+        - {x: -92, y: 18}
+        - {x: -105, y: 5}
+        - {x: -105, y: -75}
+        - {x: 105, y: -75}
+        - {x: 105, y: 26}
+        - {x: 56, y: 26}
+    - name: Counter_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 210
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 39}
+        - {x: 60, y: 39}
+        - {x: 54, y: 38}
+        - {x: -20, y: 2}
+        - {x: -23, y: 1}
+        - {x: -25, y: -7}
+        - {x: -25, y: -8}
+        - {x: -25, y: -7}
+        - {x: -28, y: -2}
+        - {x: -31, y: -3}
+        - {x: -32, y: -7}
+        - {x: -31, y: 39}
+        - {x: -64, y: 39}
+        - {x: -105, y: 26}
+        - {x: -105, y: -74}
+        - {x: -104, y: -75}
+        - {x: 105, y: -75}
+        - {x: 105, y: -3}
+        - {x: 99, y: 34}
+    - name: Counter_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 724
+        width: 210
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 43}
+        - {x: 43, y: 30}
+        - {x: 43, y: 12}
+        - {x: 43, y: 31}
+        - {x: 41, y: 35}
+        - {x: 27, y: 33}
+        - {x: -105, y: 35}
+        - {x: -105, y: -66}
+        - {x: -101, y: -75}
+        - {x: 102, y: -75}
+        - {x: 105, y: -69}
+        - {x: 105, y: 39}
+        - {x: 104, y: 43}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 773f0ef199029024ba0221d1bda5ab77
+timeCreated: 1480683707
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mo22_0
+    21300002: mo22_1
+    21300004: mo22_2
+    21300006: mo22_3
+    21300008: mo22_4
+    21300010: mo22_5
+    21300012: mo22_6
+    21300014: mo22_7
+    21300016: mo22_8
+    21300018: mo22_9
+    21300020: mo22_11
+    21300022: mo22_12
+    21300024: mo22_13
+    21300026: mo22_14
+    21300028: mo22_15
+    21300030: mo22_20
+    21300032: mo22_21
+    21300034: mo22_22
+    21300036: mo22_23
+    21300038: mo22_24
+    21300040: mo22_25
+    21300042: mo22_26
+    21300044: mo22_27
+    21300046: mo22_28
+    21300048: mo22_29
+    21300050: mo22_30
+    21300052: mo22_31
+    21300054: mo22_10
+    21300056: mo22_16
+    21300058: mo22_17
+    21300060: mo22_18
+    21300062: mo22_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 12
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mo22_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 296
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo22_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 295
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.50738716, y: 0.4561222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo22_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 296
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.51149154, y: 0.39344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.586304, y: 20.01648}
+        - {x: -13.413696, y: 20.01648}
+        - {x: -15.413696, y: 19.01648}
+        - {x: -18.413696, y: 11.0164795}
+        - {x: -18.413696, y: -1.9835205}
+        - {x: -10.413696, y: -12.9835205}
+        - {x: 15.586304, y: -12.9835205}
+        - {x: 17.586304, y: -8.9835205}
+        - {x: 17.586304, y: 18.01648}
+    - name: mo22_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 297
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.50574535, y: 0.41851345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.206833, y: 19.189056}
+        - {x: -18.206833, y: 17.189056}
+        - {x: -18.206833, y: -4.8109436}
+        - {x: -14.206833, y: -13.810944}
+        - {x: 11.793167, y: -13.810944}
+        - {x: 17.793167, y: -8.810944}
+        - {x: 17.793167, y: 19.189056}
+    - name: mo22_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 295
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.49999896, y: 0.51253533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo22_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 296
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.50738686, y: 0.55014503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo22_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 296
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5438769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15.052063}
+        - {x: -18, y: 11.052063}
+        - {x: -18, y: -7.947937}
+        - {x: -10, y: -17.947937}
+        - {x: 12, y: -17.947937}
+        - {x: 18, y: -12.947937}
+        - {x: 18, y: 15.052063}
+    - name: mo22_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16.5}
+        - {x: -13, y: 16.5}
+        - {x: -15, y: 15.5}
+        - {x: -18, y: 7.5}
+        - {x: -18, y: -5.5}
+        - {x: -10, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 18, y: -12.5}
+        - {x: 18, y: 14.5}
+    - name: mo22_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 258
+        width: 70
+        height: 33
+      alignment: 9
+      pivot: {x: 1.0789182, y: 0.50000095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.524277, y: 9.4999695}
+        - {x: -13.524277, y: 7.4999695}
+        - {x: -11.524277, y: 10.4999695}
+        - {x: -10.524277, y: 10.4999695}
+        - {x: -8.524277, y: 12.4999695}
+        - {x: -9.524277, y: 15.4999695}
+        - {x: -12.524277, y: 16.49997}
+        - {x: -24.524277, y: 16.49997}
+        - {x: -33.524277, y: 15.4999695}
+        - {x: -35.524277, y: 10.4999695}
+        - {x: -35.524277, y: 16.49997}
+        - {x: -75.52428, y: 16.49997}
+        - {x: -75.52428, y: -10.5000305}
+        - {x: -69.52428, y: -16.50003}
+        - {x: -5.5242767, y: -16.50003}
+        - {x: -5.5242767, y: 5.4999695}
+        - {x: -7.5242767, y: 9.4999695}
+      - - {x: -28.524277, y: -16.50003}
+        - {x: -24.524277, y: -16.50003}
+        - {x: -24.524277, y: -13.5000305}
+        - {x: -27.524277, y: -12.5000305}
+        - {x: -29.524277, y: -14.5000305}
+    - name: mo22_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 258
+        width: 65
+        height: 33
+      alignment: 9
+      pivot: {x: 0.85927266, y: 0.5096445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.852722, y: 16.181732}
+        - {x: -55.852722, y: 11.181732}
+        - {x: -55.852722, y: -9.818268}
+        - {x: -52.852722, y: -16.818268}
+        - {x: 9.147278, y: -16.818268}
+        - {x: 9.147278, y: 10.181732}
+        - {x: 6.147278, y: 16.181732}
+      - - {x: -8.852722, y: -16.818268}
+        - {x: -4.852722, y: -16.818268}
+        - {x: -4.852722, y: -13.818268}
+        - {x: -7.852722, y: -12.818268}
+        - {x: -9.852722, y: -14.818268}
+    - name: mo22_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 258
+        width: 55
+        height: 33
+      alignment: 9
+      pivot: {x: 0.81247836, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.31369, y: 16.5}
+        - {x: -44.68631, y: 16.5}
+        - {x: -44.68631, y: -8.5}
+        - {x: -38.68631, y: -16.5}
+        - {x: -2.6863098, y: -16.5}
+        - {x: 10.31369, y: -6.5}
+        - {x: 10.31369, y: 11.5}
+    - name: mo22_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 258
+        width: 52
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6530122, y: 0.49035552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.956635, y: 16.818268}
+        - {x: -33.956635, y: 15.818268}
+        - {x: -33.956635, y: -9.181732}
+        - {x: -28.956635, y: -16.181732}
+        - {x: 12.0433655, y: -16.181732}
+        - {x: 18.043365, y: -10.181732}
+        - {x: 18.043365, y: 8.818268}
+        - {x: 12.0433655, y: 16.818268}
+    - name: mo22_14
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 258
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16.5}
+        - {x: -13, y: 16.5}
+        - {x: -15, y: 15.5}
+        - {x: -18, y: 7.5}
+        - {x: -18, y: -5.5}
+        - {x: -10, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 18, y: -12.5}
+        - {x: 18, y: 14.5}
+    - name: mo22_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 259
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47839928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16.691223}
+        - {x: -17, y: 11.691223}
+        - {x: -17, y: -7.308777}
+        - {x: -9, y: -15.308777}
+        - {x: 17, y: -15.308777}
+        - {x: 17, y: 16.691223}
+    - name: mo22_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 221
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16.5}
+        - {x: -13, y: 16.5}
+        - {x: -15, y: 15.5}
+        - {x: -18, y: 7.5}
+        - {x: -18, y: -5.5}
+        - {x: -10, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 18, y: -12.5}
+        - {x: 18, y: 14.5}
+    - name: mo22_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.566895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo22_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 223
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo22_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 184
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16.5}
+        - {x: -18, y: 12.5}
+        - {x: -18, y: -6.5}
+        - {x: -14, y: -16.5}
+        - {x: 18, y: -16.5}
+        - {x: 18, y: 16.5}
+    - name: mo22_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 184
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5667285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -19.268768}
+        - {x: -1.5, y: -17.268768}
+        - {x: -4.5, y: -16.268768}
+        - {x: -6.5, y: -19.268768}
+      - - {x: -15.5, y: 14.731232}
+        - {x: -18.5, y: 9.731232}
+        - {x: -18.5, y: -8.268768}
+        - {x: -14.5, y: -18.268768}
+        - {x: 16.5, y: -18.268768}
+        - {x: 18.5, y: -16.268768}
+        - {x: 18.5, y: 11.731232}
+        - {x: 16.5, y: 14.731232}
+      - - {x: 15.5, y: -15.268768}
+        - {x: 17.5, y: -17.268768}
+        - {x: 18.5, y: -17.268768}
+        - {x: 18.5, y: -12.268768}
+        - {x: 16.5, y: -12.268768}
+    - name: mo22_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 185
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.54448587, y: 0.60634804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.51252, y: 12.596863}
+        - {x: -18.51252, y: 10.596863}
+        - {x: -18.51252, y: -16.403137}
+        - {x: -16.51252, y: -18.403137}
+        - {x: -12.51252, y: -19.403137}
+        - {x: 15.48748, y: -19.403137}
+        - {x: 15.48748, y: 12.596863}
+      - - {x: 12.48748, y: -16.403137}
+        - {x: 14.48748, y: -18.403137}
+        - {x: 15.48748, y: -18.403137}
+        - {x: 15.48748, y: -13.403137}
+        - {x: 13.48748, y: -13.403137}
+    - name: mo22_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 183
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5452471, y: 0.6615245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.916351, y: -20.830307}
+        - {x: 10.916351, y: -21.830307}
+        - {x: 15.916351, y: -21.830307}
+        - {x: 15.916351, y: -16.830307}
+        - {x: 14.916351, y: -16.830307}
+      - - {x: -16.083649, y: 11.169693}
+        - {x: -19.083649, y: 10.169693}
+        - {x: -19.083649, y: -18.830307}
+        - {x: -11.083649, y: -21.830307}
+        - {x: 9.916351, y: -21.830307}
+        - {x: 10.916351, y: -20.830307}
+        - {x: 14.916351, y: -0.830307}
+        - {x: 14.916351, y: 11.169693}
+      - - {x: 12.916351, y: -12.830307}
+        - {x: 14.916351, y: -14.830307}
+        - {x: 15.916351, y: -14.830307}
+        - {x: 15.916351, y: -9.830307}
+        - {x: 13.916351, y: -9.830307}
+    - name: mo22_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 186
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5504176, y: 0.6971888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo22_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 187
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5444856, y: 0.7064682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo22_30
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 185
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.58356804, y: 0.75905305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

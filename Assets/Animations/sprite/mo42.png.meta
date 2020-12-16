@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 7f9069c5aff307642b250e94a43ba229
+timeCreated: 1484912846
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mo42_0
+    21300002: mo42_1
+    21300004: mo42_2
+    21300006: mo42_3
+    21300008: mo42_4
+    21300010: mo42_6
+    21300012: mo42_8
+    21300014: mo42_9
+    21300016: mo42_10
+    21300018: mo42_11
+    21300020: mo42_13
+    21300022: mo42_24
+    21300024: mo42_25
+    21300026: mo42_26
+    21300028: mo42_27
+    21300030: mo42_28
+    21300032: mo42_29
+    21300034: mo42_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 11
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mo42_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 294
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 17}
+        - {x: -19.5, y: 15}
+        - {x: -19.5, y: -6}
+        - {x: -11.5, y: -17}
+        - {x: 19.5, y: -17}
+        - {x: 19.5, y: 15}
+        - {x: 17.5, y: 17}
+    - name: mo42_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 294
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 8.5}
+        - {x: 4.5, y: 16.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -19.5, y: 11.5}
+        - {x: -19.5, y: -4.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 19.5, y: -8.5}
+        - {x: 19.5, y: 4.5}
+        - {x: 18.5, y: 6.5}
+    - name: mo42_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 294
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 16}
+        - {x: -11.5, y: 16}
+        - {x: -19.5, y: 11}
+        - {x: -19.5, y: -4}
+        - {x: -11.5, y: -16}
+        - {x: 17.5, y: -16}
+        - {x: 19.5, y: -12}
+        - {x: 19.5, y: 8}
+    - name: mo42_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 294
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 8.5}
+        - {x: 4.5, y: 16.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -19.5, y: 11.5}
+        - {x: -19.5, y: -4.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 19.5, y: -8.5}
+        - {x: 19.5, y: 4.5}
+        - {x: 18.5, y: 6.5}
+    - name: mo42_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 17}
+        - {x: -19.5, y: 15}
+        - {x: -19.5, y: -6}
+        - {x: -11.5, y: -17}
+        - {x: 19.5, y: -17}
+        - {x: 19.5, y: 15}
+        - {x: 17.5, y: 17}
+    - name: mo42_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 80
+        height: 34
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17}
+        - {x: -72, y: 17}
+        - {x: -80, y: 7}
+        - {x: -80, y: -6}
+        - {x: -73, y: -17}
+        - {x: -6, y: -17}
+        - {x: 0, y: -13}
+        - {x: 0, y: 7}
+    - name: mo42_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 17}
+        - {x: -29.5, y: -4}
+        - {x: -18.5, y: -17}
+        - {x: 18.5, y: -17}
+        - {x: 29.5, y: -5}
+        - {x: 29.5, y: 6}
+        - {x: 25.5, y: 17}
+    - name: mo42_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 257
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 17}
+        - {x: -29.5, y: 9}
+        - {x: -29.5, y: 0}
+        - {x: -25.5, y: -2}
+        - {x: -20.5, y: -4}
+        - {x: -9.5, y: -17}
+        - {x: 23.5, y: -17}
+        - {x: 29.5, y: -9}
+        - {x: 29.5, y: 6}
+        - {x: 20.5, y: 17}
+    - name: mo42_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 257
+        width: 76
+        height: 34
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.799988, y: 17}
+        - {x: -34.200012, y: 17}
+        - {x: -39.200012, y: 4}
+        - {x: -39.200012, y: -8}
+        - {x: -16.200012, y: -17}
+        - {x: 11.799988, y: -17}
+        - {x: 22.799988, y: -3}
+        - {x: 22.799988, y: 9}
+      - - {x: -53.200012, y: 3}
+        - {x: -53.200012, y: -3}
+        - {x: -47.200012, y: -4}
+        - {x: -42.200012, y: -4}
+        - {x: -42.200012, y: 0}
+        - {x: -46.200012, y: 3}
+      - - {x: -34.200012, y: -2}
+        - {x: -31.200012, y: -1}
+        - {x: -31.200012, y: 2}
+        - {x: -34.200012, y: 3}
+        - {x: -36.200012, y: 1}
+      - - {x: -50.200012, y: 5}
+        - {x: -49.200012, y: 2}
+        - {x: -46.200012, y: 2}
+        - {x: -44.200012, y: 4}
+        - {x: -45.200012, y: 7}
+        - {x: -48.200012, y: 7}
+      - - {x: -37.200012, y: 12}
+        - {x: -39.200012, y: 8}
+        - {x: -39.200012, y: 5}
+        - {x: -36.200012, y: 3}
+        - {x: -31.200012, y: 3}
+        - {x: -29.200012, y: 4}
+        - {x: -29.200012, y: 8}
+        - {x: -30.200012, y: 12}
+        - {x: -35.200012, y: 14}
+    - name: mo42_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 257
+        width: 80
+        height: 29
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo42_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 257
+        width: 68
+        height: 34
+      alignment: 9
+      pivot: {x: 0.9, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.200012, y: 17}
+        - {x: -61.200012, y: 10}
+        - {x: -61.200012, y: -9}
+        - {x: -50.200012, y: -17}
+        - {x: -6.200012, y: -17}
+        - {x: -1.2000122, y: -14}
+        - {x: -1.2000122, y: 6}
+        - {x: -12.200012, y: 17}
+      - - {x: -8.200012, y: -17}
+        - {x: -4.200012, y: -17}
+        - {x: -4.200012, y: -14}
+        - {x: -7.200012, y: -13}
+        - {x: -9.200012, y: -15}
+      - - {x: -7.200012, y: -10}
+        - {x: -5.200012, y: -12}
+        - {x: -2.2000122, y: -11}
+        - {x: -0.2000122, y: -6}
+        - {x: -2.2000122, y: -4}
+        - {x: -5.200012, y: -5}
+      - - {x: 1.7999878, y: -2}
+        - {x: 2.7999878, y: -5}
+        - {x: 6.799988, y: -5}
+        - {x: 6.799988, y: 0}
+        - {x: 3.7999878, y: 0}
+    - name: mo42_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.700001, y: 17}
+        - {x: -11.700001, y: 15}
+        - {x: -11.700001, y: -6}
+        - {x: -3.7000008, y: -17}
+        - {x: 27.3, y: -17}
+        - {x: 27.3, y: 15}
+        - {x: 25.3, y: 17}
+    - name: mo42_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 220
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.799999, y: 6.5}
+        - {x: 0.79999924, y: 16.5}
+        - {x: -5.200001, y: 16.5}
+        - {x: -15.200001, y: 11.5}
+        - {x: -15.200001, y: -12.5}
+        - {x: -13.200001, y: -16.5}
+        - {x: 21.8, y: -16.5}
+        - {x: 22.8, y: -11.5}
+        - {x: 22.8, y: 9.5}
+        - {x: 11.799999, y: 10.5}
+    - name: mo42_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 184
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 17}
+        - {x: -19.5, y: 15}
+        - {x: -19.5, y: -6}
+        - {x: -11.5, y: -17}
+        - {x: 19.5, y: -17}
+        - {x: 19.5, y: 15}
+        - {x: 17.5, y: 17}
+    - name: mo42_27
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 184
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 8.5}
+        - {x: 4.5, y: 16.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -19.5, y: 11.5}
+        - {x: -19.5, y: -4.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 19.5, y: -8.5}
+        - {x: 19.5, y: 4.5}
+        - {x: 18.5, y: 6.5}
+    - name: mo42_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 183
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 15.5099945}
+        - {x: -19.5, y: -14.4900055}
+        - {x: -11.5, y: -17.490005}
+        - {x: 19.5, y: -17.490005}
+        - {x: 19.5, y: 7.5099945}
+        - {x: 17.5, y: 15.5099945}
+    - name: mo42_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 184
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo42_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 184
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

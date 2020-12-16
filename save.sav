@@ -1,0 +1,240 @@
+N 야리마마테스
+M 4888
+SPN 0
+SPO 0
+EM 3
+Star 3
+H_p 3
+L 10
+E 331
+Hp 148
+MSt 100
+St 100
+Is 60
+Es 60
+Eqis 6
+Eqs 6
+Chs 0
+Day 1
+BaV 1
+EfV 1
+EqIt 0
+EqAr 999
+EqAc 999
+P 50
+S 5
+D 50
+Sis 4
+SdInfo 0
+ScInfo 0
+Sfs 1
+STime 2017,3,10,19,45,39
+HTime 2017,3,10,19,40,24
+ADTime 2017,3,10,19,33,38
+Sh 0 -1
+ShItem 0 -1
+Sh 1 -1
+ShItem 1 -1
+Sh 2 0
+ShItem 2 -1
+Sh 3 0
+ShItem 3 -1
+SwInfo 0 0
+It 0 15 9 Yes
+It 1 -1 0 No
+It 2 -1 0 No
+It 3 -1 0 No
+It 4 -1 0 No
+It 5 -1 0 No
+It 6 -1 0 No
+It 7 -1 0 No
+It 8 -1 0 No
+It 9 -1 0 No
+It 10 -1 0 No
+It 11 -1 0 No
+It 12 -1 0 No
+It 13 -1 0 No
+It 14 -1 0 No
+It 15 -1 0 No
+It 16 -1 0 No
+It 17 -1 0 No
+It 18 -1 0 No
+It 19 -1 0 No
+It 20 -1 0 No
+It 21 -1 0 No
+It 22 -1 0 No
+It 23 -1 0 No
+It 24 -1 0 No
+It 25 -1 0 No
+It 26 -1 0 No
+It 27 -1 0 No
+It 28 -1 0 No
+It 29 -1 0 No
+It 30 -1 0 No
+It 31 -1 0 No
+It 32 -1 0 No
+It 33 -1 0 No
+It 34 -1 0 No
+It 35 -1 0 No
+It 36 -1 0 No
+It 37 -1 0 No
+It 38 -1 0 No
+It 39 -1 0 No
+It 40 -1 0 No
+It 41 -1 0 No
+It 42 -1 0 No
+It 43 -1 0 No
+It 44 -1 0 No
+It 45 -1 0 No
+It 46 -1 0 No
+It 47 -1 0 No
+It 48 -1 0 No
+It 49 -1 0 No
+It 50 -1 0 No
+It 51 -1 0 No
+It 52 -1 0 No
+It 53 -1 0 No
+It 54 -1 0 No
+It 55 -1 0 No
+It 56 -1 0 No
+It 57 -1 0 No
+It 58 -1 0 No
+It 59 -1 0 No
+El 0 0 68 Yes
+El 1 15 30 Yes
+El 2 1 21 Yes
+El 3 67 6 Yes
+El 4 9 14 Yes
+El 5 60 12 Yes
+El 6 10 6 Yes
+El 7 22 2 Yes
+El 8 28 4 Yes
+El 9 2 93 Yes
+El 10 7 1 Yes
+El 11 55 16 Yes
+El 12 3 15 Yes
+El 13 35 10 Yes
+El 14 -1 0 No
+El 15 -1 0 No
+El 16 -1 0 No
+El 17 -1 0 No
+El 18 -1 0 No
+El 19 -1 0 No
+El 20 -1 0 No
+El 21 -1 0 No
+El 22 -1 0 No
+El 23 -1 0 No
+El 24 -1 0 No
+El 25 -1 0 No
+El 26 -1 0 No
+El 27 -1 0 No
+El 28 -1 0 No
+El 29 -1 0 No
+El 30 -1 0 No
+El 31 -1 0 No
+El 32 -1 0 No
+El 33 -1 0 No
+El 34 -1 0 No
+El 35 -1 0 No
+El 36 -1 0 No
+El 37 -1 0 No
+El 38 -1 0 No
+El 39 -1 0 No
+El 40 -1 0 No
+El 41 -1 0 No
+El 42 -1 0 No
+El 43 -1 0 No
+El 44 -1 0 No
+El 45 -1 0 No
+El 46 -1 0 No
+El 47 -1 0 No
+El 48 -1 0 No
+El 49 -1 0 No
+El 50 -1 0 No
+El 51 -1 0 No
+El 52 -1 0 No
+El 53 -1 0 No
+El 54 -1 0 No
+El 55 -1 0 No
+El 56 -1 0 No
+El 57 -1 0 No
+El 58 -1 0 No
+El 59 -1 0 No
+Eqi 0 0 80 Yes
+Eqi 1 -1 0 No
+Eqi 2 -1 0 No
+Eqi 3 -1 0 No
+Eqi 4 -1 0 No
+Eqi 5 -1 0 No
+Mil 0 -1 0  No
+Mil 1 -1 0  No
+Mil 2 -1 0  No
+Mil 3 -1 0  No
+Mil 4 -1 0  No
+ITMA 0 True
+ITBO 0 True
+ITMA 1 True
+ITBO 1 True
+ITMA 2 True
+ITMA 3 True
+ITMA 4 True
+ITMA 5 True
+ITMA 6 True
+ITMA 7 True
+ITMA 8 True
+ITMA 9 True
+ITMA 10 True
+ITMA 11 True
+ITMA 12 True
+ITMA 13 True
+ITMA 14 True
+ITBO 14 True
+ITMA 15 True
+ITBO 15 True
+ITMA 17 True
+ITBO 17 True
+ITMA 18 True
+ITMA 20 True
+ITMA 22 True
+ITBO 22 True
+ITMA 23 True
+ITMA 24 True
+ITMA 25 True
+ITMA 26 True
+ITMA 27 True
+ITMA 28 True
+ITMA 29 True
+ITMA 30 True
+ITMA 31 True
+ITMA 33 True
+ITMA 35 True
+ITMA 36 True
+ITMA 37 True
+ITMA 39 True
+ITMA 48 True
+ITMA 49 True
+ITMA 65 True
+ELBO 0 True
+ELBO 1 True
+ELBO 2 True
+ELBO 3 True
+ELBO 7 True
+ELBO 8 True
+ELBO 9 True
+ELBO 10 True
+ELBO 15 True
+ELBO 22 True
+ELBO 28 True
+ELBO 35 True
+ELBO 55 True
+ELBO 60 True
+ELBO 67 True
+QIP 69
+QIP 8
+QIC 5
+QIC 6
+QIC 7
+QIR 18
+QIR 30
+QIR 35
+QIR 63

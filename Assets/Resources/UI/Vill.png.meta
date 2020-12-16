@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 569e8335894c9fd45b9ca3c64cdc6307
+timeCreated: 1485844993
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Vill_0
+    21300002: Vill_1
+    21300004: Vill_2
+    21300006: Vill_3
+    21300008: Vill_4
+    21300010: Vill_5
+    21300012: Vill_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Vill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1483
+        width: 679
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170, y: 142}
+        - {x: -170, y: -141}
+        - {x: 170, y: -141}
+        - {x: 170, y: 142}
+    - name: Vill_1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1483
+        width: 680
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170, y: 142}
+        - {x: -170, y: -141}
+        - {x: 171, y: -141}
+        - {x: 171, y: 142}
+    - name: Vill_2
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1483
+        width: 679
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -169.5, y: 142}
+        - {x: -169.5, y: -141}
+        - {x: 170.5, y: -141}
+        - {x: 170.5, y: 142}
+    - name: Vill_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 909
+        width: 679
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170, y: 143}
+        - {x: -170, y: -142}
+        - {x: 170, y: -142}
+        - {x: 170, y: 143}
+    - name: Vill_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 909
+        width: 680
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170, y: 143}
+        - {x: -170, y: -142}
+        - {x: 171, y: -142}
+        - {x: 171, y: 143}
+    - name: Vill_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 679
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170, y: 142.5}
+        - {x: -170, y: -141.5}
+        - {x: 170, y: -141.5}
+        - {x: 170, y: 142.5}
+    - name: Vill_6
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 331
+        width: 680
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170, y: 142.5}
+        - {x: -170, y: -141.5}
+        - {x: 171, y: -141.5}
+        - {x: 171, y: 142.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

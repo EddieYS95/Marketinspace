@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: d494254cb00004a46aa4d6e042050ea3
+timeCreated: 1487677213
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tuto1_0
+    21300002: Tuto1_1
+    21300004: Tuto1_2
+    21300006: Tuto1_3
+    21300008: Tuto1_4
+    21300010: Tuto1_5
+    21300012: Tuto1_6
+    21300014: Tuto1_7
+    21300016: Tuto1_8
+    21300018: Tuto1_9
+    21300020: Tuto1_10
+    21300022: Tuto1_11
+    21300024: Tuto1_12
+    21300026: Tuto1_13
+    21300028: Tuto1_14
+    21300030: Tuto1_15
+    21300032: Tuto1_16
+    21300034: Tuto1_17
+    21300036: Tuto1_18
+    21300038: Tuto1_19
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tuto1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1164
+        width: 872
+        height: 878
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_1
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1897
+        width: 207
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_2
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1742
+        width: 513
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_3
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1059
+        width: 501
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_4
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1164
+        width: 259
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 911
+        width: 818
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_6
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 667
+        width: 751
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_7
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 855
+        width: 186
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 695
+        width: 233
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 497
+        width: 613
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 405
+        width: 183
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 401
+        width: 178
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_12
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 441
+        width: 225
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_13
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 497
+        width: 160
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_14
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 471
+        width: 177
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 455
+        width: 223
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 175
+        width: 282
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 52
+        width: 622
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_18
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 49
+        width: 753
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tuto1_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 696
+        width: 217
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

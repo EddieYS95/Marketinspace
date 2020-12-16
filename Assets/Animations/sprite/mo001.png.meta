@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 20ee850219989d147bb0206681423682
+timeCreated: 1475842160
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mo001_0
+    21300002: mo001_1
+    21300004: mo001_2
+    21300006: mo001_3
+    21300008: mo001_4
+    21300010: mo001_5
+    21300012: mo001_6
+    21300014: mo001_7
+    21300016: mo001_8
+    21300018: mo001_9
+    21300020: mo001_10
+    21300022: mo001_11
+    21300024: mo001_12
+    21300026: mo001_13
+    21300028: mo001_14
+    21300030: mo001_15
+    21300032: mo001_16
+    21300034: mo001_17
+    21300036: mo001_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mo001_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 113
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 113
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 113
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 113
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 113
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 113
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 76
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4546708, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 76
+        width: 35
+        height: 31
+      alignment: 9
+      pivot: {x: 0.53108305, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.60528123, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 76
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.59358364, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 39
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 39
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 39
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo001_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

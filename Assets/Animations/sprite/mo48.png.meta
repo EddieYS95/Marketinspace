@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 8b8f984a39a5c5643b462f44cabb0883
+timeCreated: 1485330192
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mo48_0
+    21300002: mo48_1
+    21300004: mo48_2
+    21300006: mo48_3
+    21300008: mo48_4
+    21300010: mo48_5
+    21300012: mo48_6
+    21300014: mo48_7
+    21300016: mo48_8
+    21300018: mo48_11
+    21300020: mo48_13
+    21300022: mo48_14
+    21300024: mo48_15
+    21300026: mo48_16
+    21300028: mo48_17
+    21300030: mo48_18
+    21300032: mo48_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mo48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19.5}
+        - {x: -18.5, y: -10.5}
+        - {x: -12.5, y: -19.5}
+        - {x: 9.5, y: -19.5}
+        - {x: 20.5, y: -17.5}
+        - {x: 20.5, y: 10.5}
+        - {x: 16.5, y: 19.5}
+    - name: mo48_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 294
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 19.5}
+        - {x: -19.5, y: 5.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 17.5, y: -19.5}
+        - {x: 20.5, y: -10.5}
+        - {x: 20.5, y: 11.5}
+        - {x: 11.5, y: 19.5}
+    - name: mo48_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 294
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 17.5, y: -19.5}
+        - {x: 20.5, y: -16.5}
+        - {x: 20.5, y: 18.5}
+        - {x: 13.5, y: 19.5}
+    - name: mo48_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 294
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 15.5, y: -19.5}
+        - {x: 19.5, y: -15.5}
+        - {x: 19.5, y: 19.5}
+    - name: mo48_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 257
+        width: 78
+        height: 39
+      alignment: 9
+      pivot: {x: 0.85, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.300003, y: 20.279999}
+        - {x: -30.300003, y: -16.720001}
+        - {x: -23.300003, y: -18.720001}
+        - {x: 7.699997, y: -18.720001}
+        - {x: 11.699997, y: -12.720001}
+        - {x: 11.699997, y: 20.279999}
+      - - {x: -66.3, y: 16.279999}
+        - {x: -66.3, y: 9.279999}
+        - {x: -65.3, y: 8.279999}
+        - {x: -37.300003, y: 2.2799988}
+        - {x: -32.300003, y: 2.2799988}
+        - {x: -30.300003, y: 3.2799988}
+        - {x: -30.300003, y: 9.279999}
+        - {x: -40.300003, y: 16.279999}
+    - name: mo48_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 257
+        width: 78
+        height: 41
+      alignment: 9
+      pivot: {x: 0.8, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.600006, y: 22.140015}
+        - {x: -17.399994, y: 22.140015}
+        - {x: -21.399994, y: 10.140015}
+        - {x: -21.399994, y: -11.859985}
+        - {x: -15.399994, y: -18.859985}
+        - {x: 3.600006, y: -18.859985}
+        - {x: 13.600006, y: -13.859985}
+        - {x: 15.600006, y: -7.8599854}
+        - {x: 15.600006, y: 15.140015}
+      - - {x: -24.399994, y: -1.8599854}
+        - {x: -21.399994, y: -0.85998535}
+        - {x: -21.399994, y: 2.1400146}
+        - {x: -24.399994, y: 3.1400146}
+        - {x: -26.399994, y: 1.1400146}
+      - - {x: -62.399994, y: 16.140015}
+        - {x: -62.399994, y: 9.140015}
+        - {x: -61.399994, y: 8.140015}
+        - {x: -59.399994, y: 8.140015}
+        - {x: -56.399994, y: 11.140015}
+        - {x: -56.399994, y: 13.140015}
+        - {x: -57.399994, y: 16.140015}
+    - name: mo48_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 257
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 18.5}
+        - {x: -17.5, y: -16.5}
+        - {x: -13.5, y: -18.5}
+        - {x: 7.5, y: -18.5}
+        - {x: 17.5, y: -15.5}
+        - {x: 17.5, y: 10.5}
+        - {x: 11.5, y: 18.5}
+    - name: mo48_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 257
+        width: 65
+        height: 36
+      alignment: 9
+      pivot: {x: 0.8, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 17.279999}
+        - {x: -52, y: 6.279999}
+        - {x: -31, y: -18.720001}
+        - {x: 13, y: -18.720001}
+        - {x: 13, y: 17.279999}
+    - name: mo48_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 257
+        width: 39
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.599998, y: 18.5}
+        - {x: -15.599998, y: 10.5}
+        - {x: -15.599998, y: -17.5}
+        - {x: -12.599998, y: -18.5}
+        - {x: 20.400002, y: -18.5}
+        - {x: 23.400002, y: -15.5}
+        - {x: 23.400002, y: 12.5}
+        - {x: 11.400002, y: 18.5}
+    - name: mo48_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 257
+        width: 76
+        height: 37
+      alignment: 9
+      pivot: {x: 0.87, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.119995, y: 18.130005}
+        - {x: -30.119995, y: 6.130005}
+        - {x: -30.119995, y: -9.869995}
+        - {x: -26.119995, y: -18.869995}
+        - {x: 9.880005, y: -18.869995}
+        - {x: 9.880005, y: 15.130005}
+        - {x: 6.880005, y: 18.130005}
+      - - {x: -47.119995, y: 7.130005}
+        - {x: -44.119995, y: 8.130005}
+        - {x: -44.119995, y: 11.130005}
+        - {x: -47.119995, y: 12.130005}
+        - {x: -49.119995, y: 10.130005}
+      - - {x: -66.119995, y: 16.130005}
+        - {x: -66.119995, y: 8.130005}
+        - {x: -53.119995, y: 8.130005}
+        - {x: -51.119995, y: 11.130005}
+        - {x: -51.119995, y: 14.130005}
+        - {x: -55.119995, y: 16.130005}
+    - name: mo48_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 220
+        width: 35
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16.199997}
+        - {x: -13, y: 16.199997}
+        - {x: -14, y: 15.199997}
+        - {x: -14, y: -16.800003}
+        - {x: -9, y: -19.800003}
+        - {x: 10, y: -19.800003}
+        - {x: 20, y: -15.800003}
+        - {x: 21, y: -10.800003}
+        - {x: 21, y: 9.199997}
+    - name: mo48_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 220
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.35, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.400002, y: 14.800003}
+        - {x: -3.5999985, y: 14.800003}
+        - {x: -12.599998, y: 9.800003}
+        - {x: -12.599998, y: -22.199997}
+        - {x: 19.400002, y: -22.199997}
+        - {x: 23.400002, y: -19.199997}
+        - {x: 23.400002, y: 5.800003}
+        - {x: 20.400002, y: 13.800003}
+    - name: mo48_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 218
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 0.3, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.699997, y: 13.600006}
+        - {x: -11.699997, y: 11.600006}
+        - {x: -11.699997, y: -15.399994}
+        - {x: -5.699997, y: -20.399994}
+        - {x: 18.300003, y: -20.399994}
+        - {x: 27.300003, y: -10.399994}
+        - {x: 27.300003, y: 8.600006}
+        - {x: 19.300003, y: 13.600006}
+    - name: mo48_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 183
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo48_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 183
+        width: 31
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo48_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 182
+        width: 36
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo48_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 38
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

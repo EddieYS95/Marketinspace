@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: acc3545f204f5d34896370bc90ef7011
+timeCreated: 1487837977
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: icn_btn_0
+    21300002: icn_btn_1
+    21300004: icn_btn_2
+    21300006: icn_btn_3
+    21300008: icn_btn_4
+    21300010: icn_btn_5
+    21300012: icn_btn_6
+    21300014: icn_btn_7
+    21300016: icn_btn_8
+    21300018: icn_btn_9
+    21300020: icn_btn_10
+    21300022: icn_btn_11
+    21300024: icn_btn_12
+    21300026: icn_btn_13
+    21300028: icn_btn_14
+    21300030: icn_btn_15
+    21300032: icn_btn_16
+    21300034: icn_btn_18
+    21300036: icn_btn_21
+    21300038: icn_btn_22
+    21300040: icn_btn_23
+    21300042: icn_btn_24
+    21300044: icn_btn_25
+    21300046: icn_btn_26
+    21300048: icn_btn_27
+    21300050: icn_btn_28
+    21300052: icn_btn_17
+    21300054: icn_btn_20
+    21300056: icn_btn_19
+    21300058: icn_btn_90
+    21300060: icn_btn_91
+    21300062: icn_btn_92
+    21300064: icn_btn_93
+    21300066: icn_btn_94
+    21300068: icn_btn_95
+    21300070: icn_btn_96
+    21300072: icn_btn_97
+    21300074: icn_btn_98
+    21300076: icn_btn_99
+    21300078: icn_btn_101
+    21300080: icn_btn_102
+    21300082: icn_btn_103
+    21300084: icn_btn_104
+    21300086: icn_btn_105
+    21300088: icn_btn_106
+    21300090: icn_btn_107
+    21300092: icn_btn_108
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: -1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: -1
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: -1
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: -1
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icn_btn_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 885
+        width: 192
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 885
+        width: 194
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 885
+        width: 198
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 891
+        width: 192
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 758
+        width: 384
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 758
+        width: 384
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 660
+        width: 321
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 659
+        width: 321
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 651
+        width: 256
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 551
+        width: 333
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_10
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 559
+        width: 272
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_11
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 547
+        width: 321
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 444
+        width: 256
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 429
+        width: 384
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_14
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 444
+        width: 180
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_15
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 367
+        width: 17
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_16
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 132
+        width: 22
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 401
+        width: 759
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 377
+        width: 759
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 350
+        width: 498
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_20
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 233
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_21
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 233
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 324
+        width: 498
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 278
+        width: 390
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 181
+        width: 123
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_91
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 179
+        width: 123
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_92
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 150
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_93
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 133
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_94
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 127
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_95
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 146
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_96
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 118
+        width: 122
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 132
+        width: 175
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_98
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 128
+        width: 177
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_101
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_102
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 28
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_103
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 16
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_104
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 19
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_105
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 6
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_106
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 6
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_107
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 76
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_108
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 8
+        width: 127
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 219
+        width: 922
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icn_btn_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 11
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icn_btn_26
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 253
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

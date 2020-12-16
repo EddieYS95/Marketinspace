@@ -1,0 +1,93 @@
+fileFormatVersion: 2
+guid: cbbddcdd0e8e00c49ba7a3fdcb2cee07
+timeCreated: 1485414231
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ui_menu3_0
+    21300002: ui_menu3_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ui_menu3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 351
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -175.5, y: 49}
+        - {x: -175.5, y: -48}
+        - {x: -174.5, y: -49}
+        - {x: 174.5, y: -49}
+        - {x: 175.5, y: -48}
+        - {x: 175.5, y: 49}
+    - name: ui_menu3_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 226
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111, y: 160}
+        - {x: -113, y: 158}
+        - {x: -113, y: -158}
+        - {x: -111, y: -160}
+        - {x: 113, y: -160}
+        - {x: 113, y: 160}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

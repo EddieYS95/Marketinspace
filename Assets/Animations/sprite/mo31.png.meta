@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 44abe784c64adfd4882dcf0000847541
+timeCreated: 1484902638
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mo31_0
+    21300002: mo31_1
+    21300004: mo31_2
+    21300006: mo31_3
+    21300008: mo31_4
+    21300010: mo31_5
+    21300012: mo31_6
+    21300014: mo31_7
+    21300016: mo31_8
+    21300018: mo31_9
+    21300020: mo31_10
+    21300022: mo31_11
+    21300024: mo31_12
+    21300026: mo31_13
+    21300028: mo31_14
+    21300030: mo31_15
+    21300032: mo31_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 9
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mo31_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 294
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 17}
+        - {x: -19.5, y: 17}
+        - {x: -19.5, y: -9}
+        - {x: -11.5, y: -17}
+        - {x: 17.5, y: -17}
+        - {x: 19.5, y: -11}
+        - {x: 19.5, y: 5}
+    - name: mo31_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 294
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -13}
+        - {x: 19.5, y: 8}
+        - {x: 6.5, y: 17}
+        - {x: -14.5, y: 17}
+        - {x: -19.5, y: 15}
+        - {x: -19.5, y: -3}
+        - {x: -10.5, y: -17}
+        - {x: -0.5, y: -17}
+        - {x: 0.5, y: -16}
+        - {x: 1.5, y: -17}
+        - {x: 17.5, y: -17}
+    - name: mo31_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 294
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 17}
+        - {x: -18.5, y: 13}
+        - {x: -19.5, y: 12}
+        - {x: -19.5, y: -9}
+        - {x: -10.5, y: -17}
+        - {x: 19.5, y: -17}
+        - {x: 19.5, y: -1}
+        - {x: -3.5, y: 17}
+    - name: mo31_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 294
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -13}
+        - {x: 19.5, y: -3}
+        - {x: 3.5, y: 12}
+        - {x: -4.5, y: 17}
+        - {x: -13.5, y: 17}
+        - {x: -18.5, y: 14}
+        - {x: -19.5, y: 11}
+        - {x: -19.5, y: -3}
+        - {x: -10.5, y: -17}
+        - {x: -0.5, y: -17}
+        - {x: 0.5, y: -16}
+        - {x: 1.5, y: -17}
+        - {x: 12.5, y: -17}
+    - name: mo31_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -12}
+        - {x: 18.5, y: -11}
+        - {x: 18.5, y: 0}
+        - {x: 1.5, y: 17}
+        - {x: -12.5, y: 17}
+        - {x: -18.5, y: 14}
+        - {x: -18.5, y: -1}
+        - {x: -12.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 14.5, y: -9}
+        - {x: 14.5, y: -10}
+    - name: mo31_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 257
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.099998, y: -11}
+        - {x: 11.099998, y: -11}
+        - {x: 11.099998, y: 1}
+        - {x: 7.0999985, y: 13}
+        - {x: 0.099998474, y: 16}
+        - {x: -24.900002, y: 16}
+        - {x: -25.900002, y: 14}
+        - {x: -25.900002, y: -4}
+        - {x: -19.900002, y: -16}
+        - {x: 7.0999985, y: -16}
+        - {x: 7.0999985, y: -8}
+        - {x: 7.0999985, y: -9}
+    - name: mo31_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 257
+        width: 47
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.100006, y: -9}
+        - {x: 12.100006, y: -11}
+        - {x: 14.100006, y: -10}
+        - {x: 14.100006, y: 2}
+        - {x: 6.100006, y: 16}
+        - {x: -32.899994, y: 16}
+        - {x: -32.899994, y: -3}
+        - {x: -13.899994, y: -16}
+        - {x: 9.100006, y: -16}
+        - {x: 10.100006, y: -15}
+        - {x: 10.100006, y: -8}
+    - name: mo31_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 257
+        width: 61
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.300003, y: -11.5}
+        - {x: 18.300003, y: -10.5}
+        - {x: 18.300003, y: 3.5}
+        - {x: 1.300003, y: 16.5}
+        - {x: -13.699997, y: 16.5}
+        - {x: -20.699997, y: 13.5}
+        - {x: -20.699997, y: -1.5}
+        - {x: -12.699997, y: -16.5}
+        - {x: 14.300003, y: -16.5}
+        - {x: 14.300003, y: -8.5}
+        - {x: 14.300003, y: -9.5}
+      - - {x: -42.699997, y: 10.5}
+        - {x: -42.699997, y: 3.5}
+        - {x: -34.699997, y: 3.5}
+        - {x: -32.699997, y: 5.5}
+        - {x: -35.699997, y: 10.5}
+      - - {x: -32.699997, y: 9.5}
+        - {x: -32.699997, y: 7.5}
+        - {x: -30.699997, y: 4.5}
+        - {x: -28.699997, y: 3.5}
+        - {x: -24.699997, y: 3.5}
+        - {x: -20.699997, y: 5.5}
+        - {x: -20.699997, y: 9.5}
+    - name: mo31_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 74
+        height: 33
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 16.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -20.5, y: 11.5}
+        - {x: -20.5, y: 3.5}
+        - {x: -12.5, y: -16.5}
+        - {x: 18.5, y: -16.5}
+        - {x: 18.5, y: 2.5}
+        - {x: 11.5, y: 9.5}
+      - - {x: -55.5, y: 10.5}
+        - {x: -55.5, y: 3.5}
+        - {x: -47.5, y: 3.5}
+        - {x: -45.5, y: 5.5}
+        - {x: -48.5, y: 10.5}
+      - - {x: -44.5, y: 10.5}
+        - {x: -45.5, y: 7.5}
+        - {x: -45.5, y: 3.5}
+        - {x: -26.5, y: 3.5}
+        - {x: -26.5, y: 10.5}
+    - name: mo31_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 257
+        width: 77
+        height: 33
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.25, y: 16.5}
+        - {x: -10.75, y: 16.5}
+        - {x: -19.75, y: 11.5}
+        - {x: -19.75, y: 3.5}
+        - {x: -11.75, y: -16.5}
+        - {x: 19.25, y: -16.5}
+        - {x: 19.25, y: 2.5}
+        - {x: 12.25, y: 9.5}
+      - - {x: -57.75, y: 10.5}
+        - {x: -57.75, y: 4.5}
+        - {x: -56.75, y: 3.5}
+        - {x: -53.75, y: 3.5}
+        - {x: -48.75, y: 5.5}
+        - {x: -48.75, y: 10.5}
+    - name: mo31_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.2, y: 17}
+        - {x: -22.2, y: 3}
+        - {x: -15.200001, y: -17}
+        - {x: 12.799999, y: -17}
+        - {x: 14.799999, y: -13}
+        - {x: 14.799999, y: 1}
+        - {x: 7.799999, y: 17}
+    - name: mo31_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 220
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.300003, y: 16.5}
+        - {x: -27.300003, y: -3.5}
+        - {x: -23.300003, y: -16.5}
+        - {x: 5.699997, y: -16.5}
+        - {x: 11.699997, y: -6.5}
+        - {x: 11.699997, y: 7.5}
+        - {x: -5.300003, y: 16.5}
+    - name: mo31_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 220
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -6}
+        - {x: 19.5, y: 4}
+        - {x: 7.5, y: 16}
+        - {x: -19.5, y: 16}
+        - {x: -19.5, y: -6}
+        - {x: -15.5, y: -16}
+        - {x: -0.5, y: -16}
+        - {x: 0.5, y: -15}
+        - {x: 1.5, y: -16}
+        - {x: 13.5, y: -16}
+    - name: mo31_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 13}
+        - {x: -0.5, y: 17}
+        - {x: -13.5, y: 17}
+        - {x: -17.5, y: 16}
+        - {x: -18.5, y: 14}
+        - {x: -18.5, y: -2}
+        - {x: -9.5, y: -17}
+        - {x: 13.5, y: -17}
+        - {x: 18.5, y: -11}
+        - {x: 18.5, y: -2}
+    - name: mo31_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 183
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -14.5}
+        - {x: 18.5, y: -1.5}
+        - {x: -0.5, y: 16.5}
+        - {x: -14.5, y: 16.5}
+        - {x: -17.5, y: 15.5}
+        - {x: -18.5, y: 13.5}
+        - {x: -18.5, y: -1.5}
+        - {x: -9.5, y: -16.5}
+        - {x: 0.5, y: -16.5}
+        - {x: 1.5, y: -15.5}
+        - {x: 2.5, y: -16.5}
+        - {x: 15.5, y: -16.5}
+    - name: mo31_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 183
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo31_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 183
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 81a919f7efdb6e1429bd59da9be7dcd1
+timeCreated: 1479301177
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mo010_0
+    21300002: mo010_1
+    21300004: mo010_2
+    21300006: mo010_3
+    21300008: mo010_4
+    21300010: mo010_5
+    21300012: mo010_6
+    21300014: mo010_7
+    21300016: mo010_8
+    21300018: mo010_9
+    21300020: mo010_10
+    21300022: mo010_11
+    21300024: mo010_12
+    21300026: mo010_13
+    21300028: mo010_14
+    21300030: mo010_15
+    21300032: mo010_16
+    21300034: mo010_17
+    21300036: mo010_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 12
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mo010_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 294
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -16}
+        - {x: 13.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: -15}
+        - {x: 14.5, y: -14}
+      - - {x: 9.5, y: 16}
+        - {x: 3.5, y: 8}
+        - {x: 2.5, y: 4}
+        - {x: 2.5, y: 6}
+        - {x: 3.5, y: 7}
+        - {x: 3.5, y: 13}
+        - {x: 2.5, y: 17}
+        - {x: -15.5, y: 17}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -5}
+        - {x: -8.5, y: -18}
+        - {x: 12.5, y: -18}
+        - {x: 13.5, y: -15}
+        - {x: 16.5, y: -1}
+        - {x: 16.5, y: 15}
+      - - {x: 13.5, y: -11}
+        - {x: 15.5, y: -13}
+        - {x: 16.5, y: -13}
+        - {x: 16.5, y: -8}
+        - {x: 14.5, y: -8}
+    - name: mo010_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 294
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 15}
+        - {x: -17.5, y: -6}
+        - {x: -8.5, y: -18}
+        - {x: 11.5, y: -18}
+        - {x: 17.5, y: -10}
+        - {x: 17.5, y: 14}
+        - {x: 16.5, y: 15}
+      - - {x: 16.5, y: -18}
+        - {x: 16.5, y: -16}
+        - {x: 13.5, y: -15}
+        - {x: 11.5, y: -18}
+      - - {x: 10.5, y: -15}
+        - {x: 13.5, y: -14}
+        - {x: 13.5, y: -11}
+        - {x: 10.5, y: -10}
+        - {x: 8.5, y: -12}
+      - - {x: 14.5, y: -12}
+        - {x: 16.5, y: -14}
+        - {x: 17.5, y: -14}
+        - {x: 17.5, y: -9}
+        - {x: 15.5, y: -9}
+    - name: mo010_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 294
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -16}
+        - {x: 16, y: -18}
+        - {x: 17, y: -18}
+        - {x: 17, y: -13}
+        - {x: 15, y: -13}
+      - - {x: -17, y: 17}
+        - {x: -17, y: -13}
+        - {x: -8, y: -17}
+        - {x: 15, y: -17}
+        - {x: 17, y: -15}
+        - {x: 17, y: 15}
+        - {x: 14, y: 17}
+      - - {x: 14, y: -13}
+        - {x: 17, y: -12}
+        - {x: 17, y: -9}
+        - {x: 14, y: -8}
+        - {x: 12, y: -10}
+    - name: mo010_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 294
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -16}
+        - {x: 10.5, y: -15}
+        - {x: 10.5, y: -12}
+        - {x: 7.5, y: -11}
+        - {x: 5.5, y: -13}
+      - - {x: 14.5, y: -14}
+        - {x: 16.5, y: -16}
+        - {x: 17.5, y: -16}
+        - {x: 17.5, y: -11}
+        - {x: 15.5, y: -11}
+      - - {x: 15.5, y: 18}
+        - {x: -17.5, y: 18}
+        - {x: -17.5, y: -10}
+        - {x: -8.5, y: -15}
+        - {x: 15.5, y: -15}
+        - {x: 17.5, y: -11}
+        - {x: 17.5, y: 17}
+        - {x: 16.5, y: 17}
+      - - {x: 8.5, y: -11}
+        - {x: 11.5, y: -10}
+        - {x: 11.5, y: -7}
+        - {x: 8.5, y: -6}
+        - {x: 6.5, y: -8}
+      - - {x: 14.5, y: -6}
+        - {x: 17.5, y: -5}
+        - {x: 17.5, y: -2}
+        - {x: 14.5, y: -1}
+        - {x: 12.5, y: -3}
+    - name: mo010_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -17.5}
+        - {x: 20.5, y: -17.5}
+        - {x: 20.5, y: -14.5}
+        - {x: 17.5, y: -13.5}
+        - {x: 15.5, y: -15.5}
+      - - {x: 10.5, y: 11.5}
+        - {x: 8.5, y: 9.5}
+        - {x: 7.5, y: 5.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 8.5, y: 8.5}
+        - {x: 8.5, y: 14.5}
+        - {x: 5.5, y: 17.5}
+        - {x: -1.5, y: 17.5}
+        - {x: -6.5, y: 13.5}
+        - {x: -3.5, y: 4.5}
+        - {x: 0.5, y: 1.5}
+        - {x: -18.5, y: 4.5}
+        - {x: -20.5, y: 2.5}
+        - {x: -20.5, y: -8.5}
+        - {x: -12.5, y: -11.5}
+        - {x: 4.5, y: -17.5}
+        - {x: 15.5, y: -17.5}
+        - {x: 20.5, y: -8.5}
+        - {x: 20.5, y: 16.5}
+        - {x: 14.5, y: 17.5}
+    - name: mo010_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 256
+        width: 79
+        height: 35
+      alignment: 9
+      pivot: {x: 0.7577253, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.139702, y: 17.5}
+        - {x: -59.8603, y: 17.5}
+        - {x: -59.8603, y: -10.5}
+        - {x: -52.8603, y: -11.5}
+        - {x: 10.139702, y: -11.5}
+        - {x: 19.139702, y: -8.5}
+        - {x: 19.139702, y: 15.5}
+    - name: mo010_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 256
+        width: 80
+        height: 35
+      alignment: 9
+      pivot: {x: 0.75450385, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.639694, y: -7.5}
+        - {x: 19.639694, y: 17.5}
+        - {x: -60.360306, y: 17.5}
+        - {x: -60.360306, y: -11.5}
+        - {x: -51.360306, y: -14.5}
+        - {x: -9.360306, y: -14.5}
+        - {x: -1.3603058, y: -11.5}
+        - {x: 1.6396942, y: -10.5}
+        - {x: 16.639694, y: -9.5}
+    - name: mo010_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 256
+        width: 73
+        height: 35
+      alignment: 9
+      pivot: {x: 0.740073, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.02533, y: -17.5}
+        - {x: -7.0253296, y: -17.5}
+        - {x: -7.0253296, y: -14.5}
+        - {x: -10.02533, y: -13.5}
+        - {x: -12.02533, y: -15.5}
+      - - {x: -54.02533, y: -6.5}
+        - {x: -53.02533, y: -7.5}
+        - {x: -40.02533, y: -11.5}
+        - {x: -37.02533, y: -15.5}
+        - {x: 18.97467, y: -15.5}
+        - {x: 18.97467, y: 15.5}
+        - {x: 17.97467, y: 17.5}
+        - {x: -45.02533, y: 17.5}
+        - {x: -54.02533, y: 10.5}
+      - - {x: 13.97467, y: 13.5}
+        - {x: 14.97467, y: 10.5}
+        - {x: 18.97467, y: 10.5}
+        - {x: 18.97467, y: 15.5}
+        - {x: 15.97467, y: 15.5}
+    - name: mo010_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 256
+        width: 74
+        height: 35
+      alignment: 9
+      pivot: {x: 0.7403115, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.2169495, y: 17.5}
+        - {x: 4.2169495, y: 16.5}
+        - {x: -4.7830505, y: 17.5}
+        - {x: -35.78305, y: 17.5}
+        - {x: -54.78305, y: 3.5}
+        - {x: -54.78305, y: -17.5}
+        - {x: 14.216949, y: -17.5}
+        - {x: 14.216949, y: 9.5}
+        - {x: 10.216949, y: 17.5}
+      - - {x: -5.7830505, y: -17.5}
+        - {x: -5.7830505, y: -15.5}
+        - {x: -8.783051, y: -14.5}
+        - {x: -10.783051, y: -17.5}
+      - - {x: -14.783051, y: -17.5}
+        - {x: -11.783051, y: -16.5}
+        - {x: -11.783051, y: -13.5}
+        - {x: -14.783051, y: -12.5}
+        - {x: -16.78305, y: -14.5}
+      - - {x: 12.216949, y: 0.5}
+        - {x: 10.216949, y: -1.5}
+        - {x: 11.216949, y: -5.5}
+        - {x: 15.216949, y: -6.5}
+        - {x: 19.21695, y: -6.5}
+        - {x: 19.21695, y: 0.5}
+      - - {x: 14.216949, y: 13.5}
+        - {x: 15.216949, y: 10.5}
+        - {x: 19.21695, y: 10.5}
+        - {x: 19.21695, y: 15.5}
+        - {x: 16.21695, y: 15.5}
+    - name: mo010_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 258
+        width: 61
+        height: 30
+      alignment: 9
+      pivot: {x: 0.690125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo010_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16.5}
+        - {x: 6, y: 11.5}
+        - {x: 4, y: 9.5}
+        - {x: 3, y: 5.5}
+        - {x: 3, y: 7.5}
+        - {x: 4, y: 8.5}
+        - {x: 4, y: 14.5}
+        - {x: 3, y: 16.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -3.5}
+        - {x: -9, y: -16.5}
+        - {x: 8, y: -16.5}
+        - {x: 14, y: -7.5}
+        - {x: 16, y: 2.5}
+        - {x: 16, y: 16.5}
+    - name: mo010_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 220
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45136195, y: 0.47052187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.797668, y: 17.472778}
+        - {x: -15.797668, y: -3.5272217}
+        - {x: -8.797668, y: -15.527222}
+        - {x: 8.202332, y: -15.527222}
+        - {x: 19.202332, y: 0.47277832}
+        - {x: 19.202332, y: 17.472778}
+    - name: mo010_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 220
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4402152, y: 0.43367514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.407532, y: 17.68872}
+        - {x: -15.407532, y: -0.3112793}
+        - {x: -11.407532, y: -14.311279}
+        - {x: 10.592468, y: -14.311279}
+        - {x: 19.592468, y: -2.3112793}
+        - {x: 19.592468, y: 13.688721}
+        - {x: -3.4075317, y: 17.68872}
+    - name: mo010_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 182
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -1.5}
+        - {x: 17, y: 4.5}
+        - {x: 17, y: 16.5}
+        - {x: -17, y: 16.5}
+        - {x: -17, y: 4.5}
+        - {x: -16, y: -0.5}
+        - {x: -8, y: -15.5}
+        - {x: 6, y: -15.5}
+        - {x: 15, y: -4.5}
+        - {x: 12, y: -1.5}
+        - {x: 9, y: -1.5}
+    - name: mo010_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 182
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 13.5}
+        - {x: -19.5, y: -1.5}
+        - {x: -6.5, y: -16.5}
+        - {x: 1.5, y: -16.5}
+        - {x: 6.5, y: -15.5}
+        - {x: 19.5, y: -0.5}
+        - {x: 19.5, y: 13.5}
+    - name: mo010_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 182
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -0.5}
+        - {x: -20, y: -3.5}
+        - {x: -20, y: -16.5}
+        - {x: 17, y: -16.5}
+        - {x: 20, y: -11.5}
+        - {x: 20, y: -0.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

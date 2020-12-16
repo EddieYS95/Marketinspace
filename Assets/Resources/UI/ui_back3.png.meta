@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 33049679ece9baa499d6e05650037803
+timeCreated: 1481004506
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ui_back3_0
+    21300002: ui_back3_2
+    21300004: ui_back3_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ui_back3_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 344
+        width: 347
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.5, y: -296.5}
+        - {x: 66.5, y: -175.5}
+        - {x: 46.5, y: -114.5}
+        - {x: 40.5, y: -92.5}
+        - {x: 31.5, y: -68.5}
+        - {x: 29.5, y: -65.5}
+        - {x: 30.5, y: -64.5}
+        - {x: 49.5, y: -104.5}
+        - {x: 52.5, y: -116.5}
+        - {x: 119.5, y: -262.5}
+        - {x: 142.5, y: -307.5}
+        - {x: 173.5, y: -307.5}
+        - {x: 173.5, y: -291.5}
+        - {x: 84.5, y: -128.5}
+        - {x: 74.5, y: -114.5}
+        - {x: 64.5, y: -94.5}
+        - {x: 68.5, y: -101.5}
+        - {x: 133.5, y: -196.5}
+        - {x: 170.5, y: -248.5}
+        - {x: 173.5, y: -249.5}
+        - {x: 173.5, y: -132.5}
+        - {x: 68.5, y: -47.5}
+        - {x: 62.5, y: -43.5}
+        - {x: 57.5, y: -38.5}
+        - {x: 55.5, y: -38.5}
+        - {x: 59.5, y: -38.5}
+        - {x: 63.5, y: -44.5}
+        - {x: 120.5, y: -82.5}
+        - {x: 160.5, y: -108.5}
+        - {x: 169.5, y: -111.5}
+        - {x: 173.5, y: -111.5}
+        - {x: 173.5, y: 307.5}
+        - {x: 135.5, y: 307.5}
+        - {x: 105.5, y: 244.5}
+        - {x: 20.5, y: 44.5}
+        - {x: 17.5, y: 35.5}
+        - {x: 17.5, y: 32.5}
+        - {x: 17.5, y: 39.5}
+        - {x: 22.5, y: 49.5}
+        - {x: 42.5, y: 119.5}
+        - {x: 79.5, y: 307.5}
+        - {x: -121.5, y: 307.5}
+        - {x: -173.5, y: 300.5}
+        - {x: -173.5, y: 243.5}
+        - {x: -65.5, y: 93.5}
+        - {x: -58.5, y: 86.5}
+        - {x: -58.5, y: 82.5}
+        - {x: -59.5, y: 85.5}
+        - {x: -62.5, y: 89.5}
+        - {x: -64.5, y: 91.5}
+        - {x: -69.5, y: 97.5}
+        - {x: -77.5, y: 108.5}
+        - {x: -143.5, y: 195.5}
+        - {x: -173.5, y: 220.5}
+        - {x: -173.5, y: 78.5}
+        - {x: -168.5, y: 74.5}
+        - {x: -157.5, y: 71.5}
+        - {x: -142.5, y: 64.5}
+        - {x: -137.5, y: 63.5}
+        - {x: -131.5, y: 58.5}
+        - {x: -136.5, y: 61.5}
+        - {x: -146.5, y: 65.5}
+        - {x: -158.5, y: 70.5}
+        - {x: -168.5, y: 73.5}
+        - {x: -169.5, y: 75.5}
+        - {x: -173.5, y: 75.5}
+        - {x: -173.5, y: -17.5}
+        - {x: -125.5, y: -14.5}
+        - {x: -172.5, y: -44.5}
+        - {x: -173.5, y: -50.5}
+        - {x: -173.5, y: -89.5}
+        - {x: -158.5, y: -82.5}
+        - {x: -129.5, y: -68.5}
+        - {x: -119.5, y: -64.5}
+        - {x: -124.5, y: -66.5}
+        - {x: -150.5, y: -79.5}
+        - {x: -168.5, y: -90.5}
+        - {x: -173.5, y: -94.5}
+        - {x: -173.5, y: -173.5}
+        - {x: -145.5, y: -155.5}
+        - {x: -61.5, y: -71.5}
+        - {x: -171.5, y: -240.5}
+        - {x: -173.5, y: -244.5}
+        - {x: -173.5, y: -307.5}
+        - {x: -122.5, y: -307.5}
+        - {x: -113.5, y: -291.5}
+        - {x: -27.5, y: -307.5}
+        - {x: 105.5, y: -307.5}
+    - name: ui_back3_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 540
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -270, y: 440}
+        - {x: -270, y: -440}
+        - {x: 270, y: -440}
+        - {x: 270, y: 440}
+    - name: ui_back3_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 399
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -199.5, y: 168}
+        - {x: -199.5, y: -168}
+        - {x: 174.5, y: -168}
+        - {x: 176.5, y: -166}
+        - {x: 176.5, y: 166}
+        - {x: 174.5, y: 168}
+      - - {x: 180.5, y: 168}
+        - {x: 178.5, y: 166}
+        - {x: 178.5, y: -168}
+        - {x: 199.5, y: -168}
+        - {x: 199.5, y: 167}
+        - {x: 198.5, y: 168}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

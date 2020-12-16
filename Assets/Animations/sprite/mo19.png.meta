@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 28b4d0743de021d4abc5779d17043bed
+timeCreated: 1479364958
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mo19_0
+    21300002: mo19_1
+    21300004: mo19_2
+    21300006: mo19_3
+    21300008: mo19_4
+    21300010: mo19_5
+    21300012: mo19_6
+    21300014: mo19_8
+    21300016: mo19_9
+    21300018: mo19_10
+    21300020: mo19_13
+    21300022: mo19_15
+    21300024: mo19_16
+    21300026: mo19_17
+    21300028: mo19_18
+    21300030: mo19_19
+    21300032: mo19_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mo19_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 294
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo19_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 294
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo19_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 294
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo19_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 294
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo19_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 257
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo19_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 257
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -14}
+        - {x: -15, y: -17}
+        - {x: 16, y: -17}
+        - {x: 16, y: 14}
+        - {x: 13, y: 17}
+    - name: mo19_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 257
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -17, y: -1}
+        - {x: -8, y: -17}
+        - {x: 14, y: -17}
+        - {x: 17, y: -16}
+        - {x: 17, y: 13}
+        - {x: 5, y: 17}
+    - name: mo19_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 257
+        width: 75
+        height: 34
+      alignment: 9
+      pivot: {x: 0.7763611, y: 0.47762883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.22708, y: -0.23937988}
+        - {x: -57.22708, y: -0.23937988}
+        - {x: -58.22708, y: -2.23938}
+        - {x: -58.22708, y: -16.23938}
+        - {x: -50.22708, y: -16.23938}
+        - {x: -49.22708, y: -7.23938}
+        - {x: -49.22708, y: -1.2393799}
+      - - {x: -11.227081, y: 10.76062}
+        - {x: -13.227081, y: 8.76062}
+        - {x: -13.227081, y: -15.23938}
+        - {x: -11.227081, y: -16.23938}
+        - {x: 16.772919, y: -16.23938}
+        - {x: 16.772919, y: 9.76062}
+        - {x: 15.772919, y: 10.76062}
+      - - {x: -35.22708, y: 17.76062}
+        - {x: -35.22708, y: 12.76062}
+        - {x: -33.22708, y: 10.76062}
+        - {x: -18.227081, y: 10.76062}
+        - {x: -18.227081, y: 15.76062}
+        - {x: -19.227081, y: 17.76062}
+    - name: mo19_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 257
+        width: 78
+        height: 34
+      alignment: 9
+      pivot: {x: 0.74379045, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.015656, y: -3}
+        - {x: -58.015656, y: -17}
+        - {x: -51.015656, y: -17}
+        - {x: -50.015656, y: -14}
+        - {x: -50.015656, y: -6}
+        - {x: -55.015656, y: -3}
+      - - {x: -13.0156555, y: 17}
+        - {x: -13.0156555, y: -13}
+        - {x: -11.0156555, y: -17}
+        - {x: 19.984344, y: -17}
+        - {x: 19.984344, y: 11}
+        - {x: 16.984344, y: 17}
+    - name: mo19_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 257
+        width: 55
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6881561, y: 0.45024532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.848587, y: 14.791168}
+        - {x: -18.848587, y: 3.7911682}
+        - {x: -9.848587, y: -16.208832}
+        - {x: 15.151413, y: -16.208832}
+        - {x: 17.151413, y: -13.208832}
+        - {x: 17.151413, y: 11.791168}
+        - {x: 4.151413, y: 14.791168}
+      - - {x: -37.848587, y: 19.791168}
+        - {x: -37.848587, y: 13.791168}
+        - {x: -36.848587, y: 12.791168}
+        - {x: -30.848587, y: 10.791168}
+        - {x: -20.848587, y: 10.791168}
+        - {x: -18.848587, y: 11.791168}
+        - {x: -17.848587, y: 12.791168}
+        - {x: -17.848587, y: 16.791168}
+        - {x: -21.848587, y: 19.791168}
+    - name: mo19_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 257
+        width: 75
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7712903, y: 0.6023912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo19_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 220
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo19_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 220
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo19_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 220
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo19_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 183
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo19_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 183
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo19_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 183
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

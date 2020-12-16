@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 07c6869771ab7af4bb4f80a93c061cf4
+timeCreated: 1479297660
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mo005_0
+    21300002: mo005_1
+    21300004: mo005_2
+    21300006: mo005_3
+    21300008: mo005_4
+    21300010: mo005_5
+    21300012: mo005_6
+    21300014: mo005_7
+    21300016: mo005_8
+    21300018: mo005_9
+    21300020: mo005_10
+    21300022: mo005_11
+    21300024: mo005_12
+    21300026: mo005_13
+    21300028: mo005_14
+    21300030: mo005_15
+    21300032: mo005_16
+    21300034: mo005_17
+    21300036: mo005_18
+    21300038: mo005_19
+    21300040: mo005_20
+    21300042: mo005_21
+    21300044: mo005_22
+    21300046: mo005_23
+    21300048: mo005_24
+    21300050: mo005_25
+    21300052: mo005_26
+    21300054: mo005_27
+    21300056: mo005_28
+    21300058: mo005_29
+    21300060: mo005_30
+    21300062: mo005_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 12
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mo005_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 295
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo005_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 295
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.51594734, y: 0.540593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo005_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 295
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 17.5}
+        - {x: -15, y: 16.5}
+        - {x: -18, y: 7.5}
+        - {x: -18, y: -10.5}
+        - {x: -13, y: -17.5}
+        - {x: 12, y: -17.5}
+        - {x: 18, y: -14.5}
+        - {x: 18, y: 17.5}
+    - name: mo005_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 295
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17.5}
+        - {x: -18, y: 15.5}
+        - {x: -18, y: -7.5}
+        - {x: -6, y: -17.5}
+        - {x: -1, y: -17.5}
+        - {x: 9, y: -15.5}
+        - {x: 18, y: -9.5}
+        - {x: 18, y: 16.5}
+        - {x: 16, y: 17.5}
+    - name: mo005_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 295
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo005_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 295
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo005_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 295
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17.5}
+        - {x: -18, y: 13.5}
+        - {x: -18, y: -6.5}
+        - {x: -10, y: -17.5}
+        - {x: 7, y: -17.5}
+        - {x: 18, y: -12.5}
+        - {x: 18, y: 17.5}
+    - name: mo005_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16.5}
+        - {x: -13, y: 16.5}
+        - {x: -15, y: 15.5}
+        - {x: -18, y: 7.5}
+        - {x: -18, y: -5.5}
+        - {x: -10, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 18, y: -12.5}
+        - {x: 18, y: 14.5}
+    - name: mo005_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 258
+        width: 70
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7585757, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.899704, y: 9.5}
+        - {x: 8.899704, y: 7.5}
+        - {x: 10.899704, y: 10.5}
+        - {x: 11.899704, y: 10.5}
+        - {x: 13.899704, y: 12.5}
+        - {x: 12.899704, y: 15.5}
+        - {x: 9.899704, y: 16.5}
+        - {x: -2.100296, y: 16.5}
+        - {x: -11.100296, y: 15.5}
+        - {x: -13.100296, y: 10.5}
+        - {x: -13.100296, y: 16.5}
+        - {x: -53.100296, y: 16.5}
+        - {x: -53.100296, y: -10.5}
+        - {x: -47.100296, y: -16.5}
+        - {x: 16.899704, y: -16.5}
+        - {x: 16.899704, y: 5.5}
+        - {x: 14.899704, y: 9.5}
+      - - {x: -6.100296, y: -16.5}
+        - {x: -2.100296, y: -16.5}
+        - {x: -2.100296, y: -13.5}
+        - {x: -5.100296, y: -12.5}
+        - {x: -7.100296, y: -14.5}
+    - name: mo005_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 258
+        width: 65
+        height: 33
+      alignment: 9
+      pivot: {x: 0.72514296, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.134293, y: 16.5}
+        - {x: -47.134293, y: 11.5}
+        - {x: -47.134293, y: -9.5}
+        - {x: -44.134293, y: -16.5}
+        - {x: 17.865707, y: -16.5}
+        - {x: 17.865707, y: 10.5}
+        - {x: 14.865707, y: 16.5}
+      - - {x: -0.1342926, y: -16.5}
+        - {x: 3.8657074, y: -16.5}
+        - {x: 3.8657074, y: -13.5}
+        - {x: 0.8657074, y: -12.5}
+        - {x: -1.1342926, y: -14.5}
+    - name: mo005_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 258
+        width: 55
+        height: 33
+      alignment: 9
+      pivot: {x: 0.68905526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.101959, y: 16.5}
+        - {x: -37.89804, y: 16.5}
+        - {x: -37.89804, y: -8.5}
+        - {x: -31.89804, y: -16.5}
+        - {x: 4.101959, y: -16.5}
+        - {x: 17.10196, y: -6.5}
+        - {x: 17.10196, y: 11.5}
+    - name: mo005_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 258
+        width: 52
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6555264, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.08737, y: 16.5}
+        - {x: -34.08737, y: 15.5}
+        - {x: -34.08737, y: -9.5}
+        - {x: -29.087372, y: -16.5}
+        - {x: 11.912628, y: -16.5}
+        - {x: 17.912628, y: -10.5}
+        - {x: 17.912628, y: 8.5}
+        - {x: 11.912628, y: 16.5}
+    - name: mo005_14
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 258
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16.5}
+        - {x: -13, y: 16.5}
+        - {x: -15, y: 15.5}
+        - {x: -18, y: 7.5}
+        - {x: -18, y: -5.5}
+        - {x: -10, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 18, y: -12.5}
+        - {x: 18, y: 14.5}
+    - name: mo005_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 259
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -17, y: 11}
+        - {x: -17, y: -8}
+        - {x: -9, y: -16}
+        - {x: 17, y: -16}
+        - {x: 17, y: 16}
+    - name: mo005_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 221
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16.5}
+        - {x: -13, y: 16.5}
+        - {x: -15, y: 15.5}
+        - {x: -18, y: 7.5}
+        - {x: -18, y: -5.5}
+        - {x: -10, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 18, y: -12.5}
+        - {x: 18, y: 14.5}
+    - name: mo005_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo005_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 223
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo005_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 183
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 17.5}
+        - {x: -18.5, y: 13.5}
+        - {x: -18.5, y: -10.5}
+        - {x: -13.5, y: -17.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 8.5}
+        - {x: 15.5, y: 17.5}
+    - name: mo005_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 183
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -17.5}
+        - {x: -1.5, y: -17.5}
+        - {x: -1.5, y: -14.5}
+        - {x: -4.5, y: -13.5}
+        - {x: -6.5, y: -15.5}
+      - - {x: 15.5, y: 17.5}
+        - {x: -15.5, y: 17.5}
+        - {x: -18.5, y: 12.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -14.5, y: -15.5}
+        - {x: 15.5, y: -15.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 18.5, y: 10.5}
+        - {x: 17.5, y: 15.5}
+      - - {x: 15.5, y: -12.5}
+        - {x: 17.5, y: -14.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 18.5, y: -9.5}
+        - {x: 16.5, y: -9.5}
+    - name: mo005_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 183
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 17.5}
+        - {x: -18.5, y: 13.5}
+        - {x: -18.5, y: -8.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -10.5, y: -17.5}
+        - {x: 6.5, y: -17.5}
+        - {x: 14.5, y: -13.5}
+        - {x: 17.5, y: -8.5}
+        - {x: 17.5, y: 12.5}
+        - {x: 16.5, y: 17.5}
+      - - {x: 14.5, y: -14.5}
+        - {x: 17.5, y: -13.5}
+        - {x: 17.5, y: -10.5}
+        - {x: 14.5, y: -9.5}
+        - {x: 12.5, y: -11.5}
+    - name: mo005_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 183
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 18.5, y: -15.5}
+        - {x: 18.5, y: -13.5}
+        - {x: 15.5, y: -12.5}
+      - - {x: -6.5, y: 17.5}
+        - {x: -18.5, y: 10.5}
+        - {x: -18.5, y: -10.5}
+        - {x: -9.5, y: -17.5}
+        - {x: 12.5, y: -17.5}
+        - {x: 15.5, y: 1.5}
+        - {x: 15.5, y: 16.5}
+        - {x: 14.5, y: 17.5}
+      - - {x: 15.5, y: -10.5}
+        - {x: 18.5, y: -9.5}
+        - {x: 18.5, y: -6.5}
+        - {x: 15.5, y: -5.5}
+        - {x: 13.5, y: -7.5}
+    - name: mo005_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 183
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 17.5}
+        - {x: -18.5, y: 11.5}
+        - {x: -18.5, y: -13.5}
+        - {x: -4.5, y: -16.5}
+        - {x: 15.5, y: -16.5}
+        - {x: 17.5, y: -1.5}
+        - {x: 17.5, y: 10.5}
+        - {x: 11.5, y: 17.5}
+      - - {x: -12.5, y: -9.5}
+        - {x: -9.5, y: -8.5}
+        - {x: -9.5, y: -5.5}
+        - {x: -12.5, y: -4.5}
+        - {x: -14.5, y: -6.5}
+    - name: mo005_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 183
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -15.5}
+        - {x: -5.5, y: -14.5}
+        - {x: -5.5, y: -11.5}
+        - {x: -8.5, y: -10.5}
+        - {x: -10.5, y: -12.5}
+      - - {x: -14.5, y: 17.5}
+        - {x: -18.5, y: 11.5}
+        - {x: -18.5, y: -0.5}
+        - {x: -6.5, y: -11.5}
+        - {x: -0.5, y: -15.5}
+        - {x: 15.5, y: -15.5}
+        - {x: 15.5, y: 17.5}
+      - - {x: 15.5, y: -14.5}
+        - {x: 18.5, y: -13.5}
+        - {x: 18.5, y: -10.5}
+        - {x: 15.5, y: -9.5}
+        - {x: 13.5, y: -11.5}
+      - - {x: -14.5, y: -6.5}
+        - {x: -11.5, y: -5.5}
+        - {x: -11.5, y: -2.5}
+        - {x: -14.5, y: -1.5}
+        - {x: -16.5, y: -3.5}
+      - - {x: 12.5, y: 1.5}
+        - {x: 15.5, y: 2.5}
+        - {x: 15.5, y: 5.5}
+        - {x: 12.5, y: 6.5}
+        - {x: 10.5, y: 4.5}
+    - name: mo005_30
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 183
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 7.5}
+        - {x: -17.5, y: 0.5}
+        - {x: -4.5, y: -12.5}
+        - {x: 2.5, y: -17.5}
+        - {x: 13.5, y: -17.5}
+        - {x: 13.5, y: -0.5}
+        - {x: 9.5, y: 11.5}
+        - {x: 3.5, y: 16.5}
+        - {x: -9.5, y: 16.5}
+        - {x: -13.5, y: 15.5}
+      - - {x: 8.5, y: 9.5}
+        - {x: 10.5, y: 7.5}
+        - {x: 13.5, y: 8.5}
+        - {x: 14.5, y: 13.5}
+        - {x: 12.5, y: 15.5}
+        - {x: 9.5, y: 14.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

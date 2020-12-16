@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 0a7a866700882b048a482c6646852a55
+timeCreated: 1487577325
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mo009_0
+    21300002: mo009_1
+    21300004: mo009_2
+    21300006: mo009_3
+    21300008: mo009_4
+    21300010: mo009_5
+    21300012: mo009_6
+    21300014: mo009_7
+    21300016: mo009_8
+    21300018: mo009_9
+    21300020: mo009_10
+    21300022: mo009_11
+    21300024: mo009_12
+    21300026: mo009_13
+    21300028: mo009_14
+    21300030: mo009_15
+    21300032: mo009_16
+    21300034: mo009_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mo009_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 294
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 294
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.55090886, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 294
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.52783304, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 294
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4808039, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 294
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.44241387, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 257
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 257
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.720834, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 257
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.83, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 257
+        width: 78
+        height: 35
+      alignment: 9
+      pivot: {x: 0.85, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 257
+        width: 78
+        height: 35
+      alignment: 9
+      pivot: {x: 0.85, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_10
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 257
+        width: 77
+        height: 35
+      alignment: 9
+      pivot: {x: 0.85, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 220
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 220
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.46361554, y: 0.5040257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 220
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4154083, y: 0.49999914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 183
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 183
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 183
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mo009_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 183
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

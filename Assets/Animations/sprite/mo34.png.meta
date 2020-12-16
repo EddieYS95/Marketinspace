@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 0b9cc1ee6f88fab4fb0bd5e2dab933f3
+timeCreated: 1484909056
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mo34_0
+    21300002: mo34_1
+    21300004: mo34_2
+    21300006: mo34_3
+    21300008: mo34_4
+    21300010: mo34_6
+    21300012: mo34_8
+    21300014: mo34_9
+    21300016: mo34_10
+    21300018: mo34_15
+    21300020: mo34_16
+    21300022: mo34_18
+    21300024: mo34_19
+    21300026: mo34_20
+    21300028: mo34_21
+    21300030: mo34_23
+    21300032: mo34_24
+    21300034: mo34_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 11
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mo34_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 294
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo34_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 294
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo34_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 294
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo34_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 294
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo34_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 257
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo34_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 258
+        width: 79
+        height: 33
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 16.5}
+        - {x: -79, y: 8.5}
+        - {x: -79, y: -10.5}
+        - {x: -62, y: -16.5}
+        - {x: -17, y: -16.5}
+        - {x: -11, y: -13.5}
+        - {x: -11, y: 9.5}
+        - {x: -14, y: 16.5}
+      - - {x: -8, y: -4.5}
+        - {x: -10, y: -5.5}
+        - {x: -10, y: -10.5}
+        - {x: -5, y: -15.5}
+        - {x: -2, y: -15.5}
+        - {x: 0, y: -14.5}
+        - {x: 0, y: -5.5}
+        - {x: -1, y: -4.5}
+    - name: mo34_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 258
+        width: 52
+        height: 34
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.600006, y: 12}
+        - {x: -16.600006, y: 5}
+        - {x: -16.600006, y: 3}
+        - {x: -17.600006, y: 3}
+        - {x: -14.600006, y: 11}
+        - {x: -10.600006, y: 17}
+        - {x: -41.600006, y: 17}
+        - {x: -41.600006, y: -8}
+        - {x: -40.600006, y: -13}
+        - {x: -38.600006, y: -17}
+        - {x: 10.399994, y: -17}
+        - {x: 10.399994, y: 16}
+        - {x: -11.600006, y: 16}
+    - name: mo34_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 258
+        width: 49
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 17}
+        - {x: -20.5, y: 5}
+        - {x: -20.5, y: -17}
+        - {x: 13.5, y: -17}
+        - {x: 17.5, y: -10}
+        - {x: 17.5, y: 17}
+      - - {x: 14.5, y: -15}
+        - {x: 19.5, y: -13}
+        - {x: 19.5, y: -10}
+        - {x: 16.5, y: -9}
+        - {x: 12.5, y: -12}
+      - - {x: 19.5, y: -9}
+        - {x: 22.5, y: -8}
+        - {x: 22.5, y: -5}
+        - {x: 19.5, y: -4}
+        - {x: 17.5, y: -6}
+      - - {x: -24.5, y: -3}
+        - {x: -22.5, y: -3}
+        - {x: -20.5, y: -1}
+        - {x: -21.5, y: 2}
+        - {x: -24.5, y: 2}
+      - - {x: 18.5, y: -2}
+        - {x: 21.5, y: -1}
+        - {x: 21.5, y: 2}
+        - {x: 18.5, y: 3}
+        - {x: 16.5, y: 1}
+      - - {x: 17.5, y: 3}
+        - {x: 20.5, y: 4}
+        - {x: 20.5, y: 7}
+        - {x: 17.5, y: 8}
+        - {x: 15.5, y: 6}
+      - - {x: 20.5, y: 7}
+        - {x: 22.5, y: 4}
+        - {x: 24.5, y: 5}
+        - {x: 24.5, y: 8}
+        - {x: 22.5, y: 9}
+      - - {x: 21.5, y: 11}
+        - {x: 23.5, y: 9}
+        - {x: 24.5, y: 9}
+        - {x: 24.5, y: 14}
+        - {x: 22.5, y: 14}
+    - name: mo34_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 258
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo34_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 258
+        width: 75
+        height: 33
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 16.5}
+        - {x: -68, y: 9.5}
+        - {x: -68, y: -7.5}
+        - {x: -59, y: -16.5}
+        - {x: -20, y: -16.5}
+        - {x: -11, y: -10.5}
+        - {x: -11, y: 16.5}
+      - - {x: -10, y: -4.5}
+        - {x: -11, y: -7.5}
+        - {x: -11, y: -9.5}
+        - {x: -10, y: -11.5}
+        - {x: -5, y: -15.5}
+        - {x: 0, y: -15.5}
+        - {x: 0, y: -4.5}
+      - - {x: -72, y: -2.5}
+        - {x: -72, y: 0.5}
+        - {x: -75, y: 1.5}
+        - {x: -75, y: -3.5}
+    - name: mo34_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo34_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 220
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo34_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 220
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo34_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 183
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo34_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 183
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 16.5}
+        - {x: -16.5, y: 14.5}
+        - {x: -16.5, y: 2.5}
+        - {x: -9.5, y: -14.5}
+        - {x: -5.5, y: -15.5}
+        - {x: -2.5, y: -13.5}
+        - {x: -3.5, y: -14.5}
+        - {x: -3.5, y: -15.5}
+        - {x: -2.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 10.5}
+        - {x: 12.5, y: 16.5}
+    - name: mo34_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 183
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mo34_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 183
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

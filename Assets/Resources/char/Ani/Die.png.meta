@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 2217e3d791f7e7448bc33a385757a4d4
+timeCreated: 1474109263
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Die_0
+    21300002: Die_1
+    21300004: Die_2
+    21300006: Die_3
+    21300008: Die_4
+    21300010: Die_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Die_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 743
+        width: 152
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -49}
+        - {x: 3, y: -66}
+        - {x: 38, y: -66}
+        - {x: 38, y: 67}
+        - {x: -38, y: 67}
+        - {x: -38, y: -27}
+        - {x: -23, y: -66}
+        - {x: 1, y: -66}
+        - {x: 2, y: -65}
+        - {x: 2, y: -56}
+        - {x: 1, y: -53}
+    - name: Die_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 741
+        width: 159
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -48}
+        - {x: 9, y: -66}
+        - {x: 9, y: -67}
+        - {x: 40, y: -67}
+        - {x: 40, y: 68}
+        - {x: -40, y: 68}
+        - {x: -40, y: -25}
+        - {x: -14, y: -67}
+        - {x: 5, y: -67}
+        - {x: 7, y: -65}
+        - {x: 7, y: -57}
+        - {x: 6, y: -54}
+    - name: Die_2
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 739
+        width: 175
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -55}
+        - {x: 21.5, y: -64}
+        - {x: 22.5, y: -67}
+        - {x: 36.5, y: -67}
+        - {x: 44.5, y: -59}
+        - {x: 44.5, y: 70}
+        - {x: -18.5, y: 70}
+        - {x: -43.5, y: 62}
+        - {x: -43.5, y: 14}
+        - {x: -38.5, y: -12}
+        - {x: -11.5, y: -69}
+        - {x: 18.5, y: -69}
+        - {x: 20.5, y: -66}
+        - {x: 19.5, y: -55}
+        - {x: 17.5, y: -53}
+    - name: Die_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 448
+        width: 266
+        height: 261
+      alignment: 9
+      pivot: {x: 0.71917045, y: 0.5072054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.649673, y: 64.55969}
+        - {x: -52.649673, y: 64.55969}
+        - {x: -95.64967, y: 21.559692}
+        - {x: -95.64967, y: 0.5596924}
+        - {x: -41.649673, y: -66.44031}
+        - {x: 38.350327, y: -66.44031}
+        - {x: 38.350327, y: -27.440308}
+        - {x: 29.350327, y: -1.4403076}
+    - name: Die_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 440
+        width: 270
+        height: 273
+      alignment: 9
+      pivot: {x: 0.7507498, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.648773, y: -38.5}
+        - {x: 34.648773, y: -29.5}
+        - {x: 25.648773, y: -15.5}
+        - {x: 2.6487732, y: 22.5}
+        - {x: -24.351227, y: 48.5}
+        - {x: -49.351227, y: 59.5}
+        - {x: -77.35123, y: 59.5}
+        - {x: -101.35123, y: 11.5}
+        - {x: -101.35123, y: -11.5}
+        - {x: -47.351227, y: -44.5}
+        - {x: 0.6487732, y: -68.5}
+        - {x: 14.648773, y: -68.5}
+        - {x: 19.648773, y: -60.5}
+        - {x: 21.648773, y: -55.5}
+        - {x: 27.648773, y: -48.5}
+    - name: Die_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 440
+        width: 293
+        height: 282
+      alignment: 9
+      pivot: {x: 0.7686606, y: 0.5105653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.858765, y: 19.010284}
+        - {x: -108.858765, y: -22.989716}
+        - {x: -108.858765, y: -67.989716}
+        - {x: -73.858765, y: -71.989716}
+        - {x: 34.141235, y: -71.989716}
+        - {x: 34.141235, y: -25.989716}
+        - {x: -28.858765, y: 19.010284}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
